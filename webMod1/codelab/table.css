@@ -1,0 +1,16 @@
+.tablee {
+  background-color: gold;
+  border: 1px solid black;
+}
+.tablee th,
+.tablee td {
+  border: 1px solid black;
+  padding: 5px;
+  color: black;
+}
+.td {
+  text-align: left;
+}
+.nomor {
+  text-align: center;
+}
